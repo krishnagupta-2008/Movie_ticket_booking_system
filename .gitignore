@@ -1,0 +1,12 @@
+# Generated C++ binaries
+*.exe
+*.out
+*.o
+a.exe
+
+# Temporary editor/compiler files
+tempCodeRunnerFile.cpp
+
+# IDE settings
+.idea/
+.vscode/
