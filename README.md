@@ -19,7 +19,7 @@ A modular, console-based movie ticket booking system developed in C++ using obje
 - `CLASS_DIAGRAM.jpeg` - class diagram
 - `SEQUENCE_DIAGRAM.jpeg` - sequence diagram
 - `MTBS_report.pdf` - project report
-- `OUTPUT.pdf` - sample output
+- `OUTPUT.jpg` - sample output
 
 ## Build and Run
 
